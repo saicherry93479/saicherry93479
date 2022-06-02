@@ -12,9 +12,10 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sai-cherry-a59114211/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-
+  <br/>
 
 <summary><b>💻 GitHub Profile Stats</b></summary>
+	  <br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saicherry93479&theme=tokyonight)](https://git.io/streak-stats)
   </br>
