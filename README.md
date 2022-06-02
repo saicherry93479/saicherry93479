@@ -15,12 +15,14 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saicherry93479&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saicherry93479&theme=tokyonight)
 
 
 <summary><b>💻 GitHub Profile Stats</b></summary>
+ <p align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saicherry93479&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight)](https://git.io/streak-stats)
+  </br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saicherry93479&theme=tokyonight)
+<br/>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saicherry93479&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
