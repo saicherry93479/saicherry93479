@@ -19,14 +19,14 @@
 ## GitHub Stats
 
 
-|                                                                     cherrys's Stats                                                                     |
+|                                                                     cherry's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![cherry's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=saicherry93479&theme=react-dark&hide_border=true&area=true) |
 | ![cherry's github stats](https://github-readme-stats.vercel.app/api?username=saicherry93479&show_icons=true&theme=algolia)              | 
 | ![cherry's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saicherry93479&theme=algolia)                    | 
     
 
-|                                                                                                      cherrys's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                      cherry's Stats                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=saicherry93479&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saicherry93479&langs_count=8&theme=algolia&layout=compact) |
 
