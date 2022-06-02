@@ -16,7 +16,7 @@
 
 <summary><b>💻 GitHub Profile Stats</b></summary>
 	  <br/>
-<p align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saicherry93479&theme=tokyonight)](https://git.io/streak-stats)
   </br>
   <p align="center">
