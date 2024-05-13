@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-###### 🔭 I’m currently working in blockchain dapps
-###### 🌱 I’m currently learning blockchain
+###### 🔭 I’m currently working in a product based comapny called Comcast
+###### 🌱 I’m currently learning AI/ML
 ###### 👯 I’m looking to collaborate on any projects in web || mobile || blockchain || ml
 
 
